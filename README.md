@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Tudo que eu puder ajudar
 - 📫 How to reach me juniorteleco33@gmail.com ou (17)99109-1090
 - 😄 Pronouns: Ele
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Curioso em tecnologia 
 
 <!---
 JrTeleco/JrTeleco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
