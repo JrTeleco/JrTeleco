@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ciência de Dados
 - 💞️ I’m looking to collaborate on Tudo que eu puder ajudar
 - 📫 How to reach me juniorteleco33@gmail.com ou (17)99109-1090
-- 😄 Pronouns: ...
+- 😄 Pronouns: Ele
 - ⚡ Fun fact: ...
 
 <!---
